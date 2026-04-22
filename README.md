@@ -1,4 +1,4 @@
-# ScreenGuard (TMM) — Release layout
+# ScreenGuard (TMM) — Release v1.0.0 layout
 
 ## English
 
