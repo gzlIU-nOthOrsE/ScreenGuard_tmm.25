@@ -15,9 +15,9 @@ Thumbs.db
 .idea/
 .vscode/
 
-runtime/Save_data/
-**/*.ckpt
-**/lightning_logs/
+Inference/runtime/Save_data/
+Inference/**/*.ckpt
+Inference/**/lightning_logs/
 
-embedded_output/
-extract_output/
+Inference/embedded_output/
+Inference/extract_output/
